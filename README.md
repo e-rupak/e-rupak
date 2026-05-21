@@ -1,4 +1,4 @@
-<p align="center"><img src="rup.png" alt="RUPAK" /></p>
+<p align="center"><img src="rupak(1).png" alt="RUPAK" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=e-rupak" alt="e-rupak" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
