@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rupak</h1>
-<h3 align="center">Machine Learning Enthusiast</h3>
-
-<p align="center">
-  <img src="rupak(1).png" alt="Rupak Banner" width="70%" />
-</p>
+<h1 align="center"> <img src="rupak(1).png" alt="Rupak Banner" width="70%" /></h1>
 
 ---
 
