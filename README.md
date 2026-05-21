@@ -17,9 +17,6 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.codechef.com/users/solid_calm_05" target="blank">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
 </p>
 
 ---
