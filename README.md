@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="ru(1).png" alt="Rupak Banner" width="70%" /></h1>
+<h1 align="center"> <img src="ru.png" alt="Rupak Banner" width="70%" /></h1>
 
 ---
 
